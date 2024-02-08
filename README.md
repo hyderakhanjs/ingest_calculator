@@ -1,6 +1,6 @@
 # ingest_calculator
 
-- Download the _diag.ipynb_ file and open it in colab.research.google.com
+- Download the **_diag.ipynb_** file and open it in colab.research.google.com
 - It requires two files indices.json and ilm_polices.json from the diagnostic files
 - Make sure the files are uploaded to your google drive. You can connect your google drive to colab.research.google.com
 - Once connected the files should show up in the left nav bar and you should be able to copy / paste the path to each file in the code.
