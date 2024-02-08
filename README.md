@@ -6,4 +6,5 @@
 - Once connected the files should show up in the left nav bar and you should be able to copy / paste the path to each file in the code.
 - This script will also produce two merged_index.csv and merged_ilm.csv . You need to provide a path in your code on where to drop these files
 - Keep in mind that the daily ingest number for each ILM policy is the number of disk. You will have to manually calculate the raw size using a compression factor based on your use case
-- The calculations are only done for the primary shards and do not include data for replicas. 
+- The calculations are only done for the primary shards and do not include data for replicas.
+- Run the first notebook fragment. It should take longer to run. Once completed, run the second notebook fragment which should be much quicker
